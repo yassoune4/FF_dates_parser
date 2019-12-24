@@ -1,0 +1,30 @@
+Modèles ISO 8601 : Modèles de dates et d'heures
+[Locale en_CA : anglais, Canada / Locale en_GB : anglais, Royaume-Uni / Locale en_US : anglais, États-Unis]
+
+{Formats ---> Exemples}
+
+yyyy-MM-dd ----> 1999-03-22
+
+MM-dd-yyyy ----> 03-22-1999
+
+MM-dd-yy ----> 03-22-99
+
+d-MMM-yyyy ----> 22-Mar-1999
+
+MM/dd/yy ----> 03/11/22
+
+MM/dd/yyyy ----> 03/22/1999
+
+d/MMM/yyyy ----> 22/Mar/1999
+
+dd/MMM/yy ----> 22/Mar/99
+
+MMM.dd.yyyy ----> Mar.22.1999
+
+MMMM d, yyyy ----> March 22, 1999
+
+MMM d, yyyy ----> Mar 22, 1999
+
+dd MMMM yyyy ----> 22 March 1999
+
+dd MMM yyyy ----> 22 Mar 1999
